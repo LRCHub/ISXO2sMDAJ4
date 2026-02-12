@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "White On White",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-02-12T09:21:18.732969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White on White",
+      "artist": "FIDLAR",
+      "has_synced": false,
+      "path": "select/01_White_on_White_FIDLAR.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White on White Crime",
+      "artist": "Vinnie Paz feat. Ot the Real & DBoy Flowski",
+      "has_synced": true,
+      "path": "select/02_White_on_White_Crime_Vinnie_Paz_feat._Ot_the_Real_&_DBoy_Flowski.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White on White Crime (feat. O.T. The Real & DBoy Flowski)",
+      "artist": "Vinnie Paz",
+      "has_synced": true,
+      "path": "select/03_White_on_White_Crime_(feat._O.T._The_Real_&_DBoy_Flowski)_Vinnie_Paz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White on White Crime (feat. Ot the Real & DBoy Flowski)",
+      "artist": "Vinnie Paz",
+      "has_synced": true,
+      "path": "select/04_White_on_White_Crime_(feat._Ot_the_Real_&_DBoy_Flowski)_Vinnie_Paz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White On White Crime",
+      "artist": "Agoraphobic Nosebleed",
+      "has_synced": true,
+      "path": "select/05_White_On_White_Crime_Agoraphobic_Nosebleed.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White on White Crime",
+      "artist": "Vinnie Paz",
+      "has_synced": true,
+      "path": "select/06_White_on_White_Crime_Vinnie_Paz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White on White Crime",
+      "artist": "Vinnie Paz feat. O.T. The Real & DBoy Flowski",
+      "has_synced": true,
+      "path": "select/07_White_on_White_Crime_Vinnie_Paz_feat._O.T._The_Real_&_DBoy_Flowski.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White On White",
+      "artist": "Danny Williams",
+      "has_synced": true,
+      "path": "select/08_White_On_White_Danny_Williams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White on White",
+      "artist": "Danny Williams",
+      "has_synced": true,
+      "path": "select/09_White_on_White_Danny_Williams.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "White on White",
+      "artist": "FIDLAR",
+      "has_synced": true,
+      "path": "select/10_White_on_White_FIDLAR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "White On White",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/11_White_On_White_嵐.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "White on White",
+      "artist": "Daughn Gibson",
+      "has_synced": false,
+      "path": "select/12_White_on_White_Daughn_Gibson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "white on white 1964",
+      "artist": "danny williams",
+      "has_synced": true,
+      "path": "select/13_white_on_white_1964_danny_williams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White on White",
+      "artist": "Casiotone for the Painfully Alone",
+      "has_synced": false,
+      "path": "select/14_White_on_White_Casiotone_for_the_Painfully_Alone.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "White On White",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_White_On_White_嵐.txt"
+    }
+  ]
+}
